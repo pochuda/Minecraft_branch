@@ -1,0 +1,17 @@
+{
+	id: "9fd0afff-c1f6-384a-a6b0-f81ad2cfb46e"
+	type: "player"
+	player_name: "pipelencho714"
+	ranks: {
+		9fd0afff-c1f6-384a-a6b0-f81ad2cfb46e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "pipelencho714"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFE0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

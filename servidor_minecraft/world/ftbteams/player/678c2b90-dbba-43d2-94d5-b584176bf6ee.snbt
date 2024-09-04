@@ -1,0 +1,15 @@
+{
+	id: "678c2b90-dbba-43d2-94d5-b584176bf6ee"
+	type: "player"
+	player_name: "Nofnauj"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Nofnauj"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CDFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

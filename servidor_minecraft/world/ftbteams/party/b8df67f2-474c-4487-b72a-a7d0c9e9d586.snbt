@@ -1,0 +1,23 @@
+{
+	id: "b8df67f2-474c-4487-b72a-a7d0c9e9d586"
+	type: "party"
+	owner: "0d607ce0-b942-4f69-9667-41e63a5f7af4"
+	ranks: {
+		678c2b90-dbba-43d2-94d5-b584176bf6ee: "ally"
+		0d607ce0-b942-4f69-9667-41e63a5f7af4: "owner"
+		6a57eeba-bc42-430c-8634-1a7ff436b8eb: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "Lavado de activos"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BAFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1725249736975L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"SrShizu\"}]}" }
+		{ from: "0d607ce0-b942-4f69-9667-41e63a5f7af4", date: 1725249746792L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"pipelencho714\"}]}" }
+		{ from: "0d607ce0-b942-4f69-9667-41e63a5f7af4", date: 1725249746792L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Nofnauj\"}]}" }
+	]
+	extra: { }
+}

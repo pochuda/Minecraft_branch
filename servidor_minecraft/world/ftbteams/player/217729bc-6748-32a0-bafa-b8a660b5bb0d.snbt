@@ -1,0 +1,17 @@
+{
+	id: "217729bc-6748-32a0-bafa-b8a660b5bb0d"
+	type: "player"
+	player_name: "SrShizu"
+	ranks: {
+		217729bc-6748-32a0-bafa-b8a660b5bb0d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SrShizu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#597EFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

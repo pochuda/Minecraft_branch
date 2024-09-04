@@ -1,0 +1,25 @@
+{
+	id: "f3060174-0775-452a-bf83-1045a6c4a138"
+	type: "party"
+	owner: "6a57eeba-bc42-430c-8634-1a7ff436b8eb"
+	ranks: {
+		678c2b90-dbba-43d2-94d5-b584176bf6ee: "ally"
+		0d607ce0-b942-4f69-9667-41e63a5f7af4: "ally"
+		250140d6-6fbf-41af-855b-09632a7add36: "ally"
+		6a57eeba-bc42-430c-8634-1a7ff436b8eb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "pipelencho714's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFB759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1725249750350L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"pipelencho714\"}]}" }
+		{ from: "6a57eeba-bc42-430c-8634-1a7ff436b8eb", date: 1725249766614L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"SrShizu\"}]}" }
+		{ from: "6a57eeba-bc42-430c-8634-1a7ff436b8eb", date: 1725249766614L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Nofnauj\"}]}" }
+		{ from: "6a57eeba-bc42-430c-8634-1a7ff436b8eb", date: 1725337738863L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Vonn_Richtoffen\"}]}" }
+	]
+	extra: { }
+}

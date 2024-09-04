@@ -1,0 +1,17 @@
+{
+	id: "250140d6-6fbf-41af-855b-09632a7add36"
+	type: "player"
+	player_name: "Vonn_Richtoffen"
+	ranks: {
+		250140d6-6fbf-41af-855b-09632a7add36: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Vonn_Richtoffen"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BD59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "e6e2dec7-1da9-4c66-bfdb-ac3fa4a8c7a1"
+	type: "party"
+	owner: "6a57eeba-bc42-430c-8634-1a7ff436b8eb"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "pipelencho714's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B4FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

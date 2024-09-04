@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "9fd0afffc1f6384aa6b0f81ad2cfb46e"
+	name: "pipelencho714#9fd0afff"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		7B701D980200A661: 1
+	}
+	started: {
+		7539C31213D86E55: 1725059396735L
+		0000000000000001: 1725059396735L
+		7B701D980200A661: 1725059396735L
+		1DD302BB650057E3: 1725059396735L
+	}
+	completed: {
+		7B701D980200A661: 1725059396740L
+		1DD302BB650057E3: 1725059396740L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

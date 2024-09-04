@@ -1,0 +1,15 @@
+{
+	id: "0d607ce0-b942-4f69-9667-41e63a5f7af4"
+	type: "player"
+	player_name: "SrShizu"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "SrShizu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BAFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

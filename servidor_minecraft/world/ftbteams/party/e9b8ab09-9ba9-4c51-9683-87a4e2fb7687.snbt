@@ -1,0 +1,23 @@
+{
+	id: "e9b8ab09-9ba9-4c51-9683-87a4e2fb7687"
+	type: "party"
+	owner: "678c2b90-dbba-43d2-94d5-b584176bf6ee"
+	ranks: {
+		678c2b90-dbba-43d2-94d5-b584176bf6ee: "owner"
+		0d607ce0-b942-4f69-9667-41e63a5f7af4: "invited"
+		6a57eeba-bc42-430c-8634-1a7ff436b8eb: "invited"
+	}
+	properties: {
+		"ftbteams:display_name": "Nofnauj's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7659"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1725249689341L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Nofnauj\"}]}" }
+		{ from: "678c2b90-dbba-43d2-94d5-b584176bf6ee", date: 1725249697611L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"SrShizu\"}]}" }
+		{ from: "678c2b90-dbba-43d2-94d5-b584176bf6ee", date: 1725249697611L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"pipelencho714\"}]}" }
+	]
+	extra: { }
+}

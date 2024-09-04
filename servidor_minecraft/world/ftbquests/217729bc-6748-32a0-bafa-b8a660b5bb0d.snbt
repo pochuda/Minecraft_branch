@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "217729bc674832a0bafab8a660b5bb0d"
+	name: "SrShizu#217729bc"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		7B701D980200A661: 1
+	}
+	started: {
+		7539C31213D86E55: 1725229842052L
+		0000000000000001: 1725229842052L
+		7B701D980200A661: 1725229842052L
+		1DD302BB650057E3: 1725229842052L
+	}
+	completed: {
+		7B701D980200A661: 1725229842060L
+		1DD302BB650057E3: 1725229842060L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
